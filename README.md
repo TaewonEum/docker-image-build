@@ -40,4 +40,4 @@
  
  ![image](https://user-images.githubusercontent.com/104436260/199649224-ae78223f-c7a4-47da-8665-1cdcfaa81fc5.png)
  
- 
+ docker build --tag 이미지명:tag
