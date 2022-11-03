@@ -67,3 +67,8 @@ Docker commands 복사
 ![image](https://user-images.githubusercontent.com/104436260/199653479-818dac04-eff8-4e98-9738-fa94c895b656.png)
 
 docker hub Repositories 이름에 맞추어 image 이름 
+
+![image](https://user-images.githubusercontent.com/104436260/199653648-6f576610-04e7-4ac8-ab3c-fae4a68592fb.png)
+
+docker push 이미지명:태그
+docker hub에 image push 시작
