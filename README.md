@@ -38,6 +38,6 @@
  
  # Docker Image Build
  
- ![image](https://user-images.githubusercontent.com/104436260/199649224-ae78223f-c7a4-47da-8665-1cdcfaa81fc5.png)
+![image](https://user-images.githubusercontent.com/104436260/199650079-981b12d6-ea42-4796-b6bc-918886f5972e.png)
  
  docker build --tag 이미지명:tag
