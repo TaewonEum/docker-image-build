@@ -64,4 +64,6 @@ Docker commands 복사
 
 ![image](https://user-images.githubusercontent.com/104436260/199653099-802b3c10-b411-4ea7-8b3f-40dff3391ffc.png)
 
+![image](https://user-images.githubusercontent.com/104436260/199653479-818dac04-eff8-4e98-9738-fa94c895b656.png)
 
+docker hub Repositories 이름에 맞추어 image 이름 
