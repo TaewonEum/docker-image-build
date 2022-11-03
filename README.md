@@ -45,3 +45,7 @@
 ![image](https://user-images.githubusercontent.com/104436260/199652311-4ed0e972-dd2d-4abd-a11e-b09d87dc012c.png)
 
 이미지 build 완료
+
+![image](https://user-images.githubusercontent.com/104436260/199652391-c3dbb9f8-dc52-45b5-a1e6-ee1c18a138c8.png)
+
+터미널에 docker images 입력 후 이미지 생성 확인
