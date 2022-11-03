@@ -18,3 +18,7 @@
  ![image](https://user-images.githubusercontent.com/104436260/199646597-0b15b82a-d637-4a70-9644-ef447f594556.png)
  
  jupyter nbconvert to script 파일명.ipynb 실행하여 py 파일로 변환
+ 
+ # VS Code 실행
+ 
+ 
