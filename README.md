@@ -7,7 +7,8 @@
 
 ![image](https://user-images.githubusercontent.com/104436260/199645847-0db467b4-77eb-4d53-b17b-5b31a6971499.png)
 
- 실행-> 이미지로 만들 파이썬 코드가 있는 폴더로 경로 변경-> pip list --format=freeze >./requirements.txt 입력
+ anaconda prompt 실행-> 이미지로 만들 파이썬 코드가 있는 폴더로 경로 변경-> pip list --format=freeze >./requirements.txt 입력
+ 
  
  ![image](https://user-images.githubusercontent.com/104436260/199646236-5fef0820-8222-465f-96c3-63641b4675c8.png)
  
