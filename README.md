@@ -23,4 +23,16 @@
  
 ![image](https://user-images.githubusercontent.com/104436260/199646963-38f39ced-3cb6-4b9f-a950-8073083fe236.png)
  
+ # Dokcerfile 생성 후 작성
+ 
+ FROM python:3.7.13 -> 각자 파이썬 버전에 맞게 작성
+ 
+ COPY . . -> host 환경의 파일 또는 디렉토리를 대상 컨테이너 이미지 안으로 복사한다.
+ 
+ RUN pip install -r requirements.txt -> requirements.txt 안의 라이브러리 설치
+ 
+ CMD ["python3", "source_code.py"] -> CMD 명령어는 RUN 명령어가 이미지를 빌드할 때 실행되는 것과 달리, 이미지로부터 컨테이너를 생성하여 최초로 실행할 때 수행됨.
+ 
+ 
+ 
  
