@@ -41,3 +41,7 @@
 ![image](https://user-images.githubusercontent.com/104436260/199650079-981b12d6-ea42-4796-b6bc-918886f5972e.png)
  
  docker build --tag 이미지명:tag 입력하고 실행하면 Image build 시작
+
+![image](https://user-images.githubusercontent.com/104436260/199652311-4ed0e972-dd2d-4abd-a11e-b09d87dc012c.png)
+
+이미지 build 완료
