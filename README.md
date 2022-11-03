@@ -72,3 +72,6 @@ docker hub Repositories 이름에 맞추어 image 이름
 
 docker push 이미지명:태그
 docker hub에 image push 시작
+
+docker hub image push 완료
+![image](https://user-images.githubusercontent.com/104436260/199657682-2938be7c-b1d7-43be-b4f7-a9af22e7d302.png)
