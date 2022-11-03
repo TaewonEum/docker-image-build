@@ -25,6 +25,8 @@
  
  # Dokcerfile 생성 후 작성
  
+ ![image](https://user-images.githubusercontent.com/104436260/199647900-3f31b7b3-c2c6-4fce-b787-99396a07d5dd.png)
+ 
  FROM python:3.7.13 -> 각자 파이썬 버전에 맞게 작성
  
  COPY . . -> host 환경의 파일 또는 디렉토리를 대상 컨테이너 이미지 안으로 복사한다.
