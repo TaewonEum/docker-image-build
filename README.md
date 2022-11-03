@@ -52,4 +52,7 @@
 
 Docker hub에 Image Push
 
+![image](https://user-images.githubusercontent.com/104436260/199652609-322794cd-6d50-4c3d-a242-b86227c7d422.png)
+
+docker hub login 후 Repositories 생성
 
