@@ -36,6 +36,8 @@
  
  CMD ["python3", "source_code.py"] -> CMD 명령어는 RUN 명령어가 이미지를 빌드할 때 실행되는 것과 달리, 이미지로부터 컨테이너를 생성하여 최초로 실행할 때 수행됨.
  
+ # Docker Image Build
+ 
  
  
  
