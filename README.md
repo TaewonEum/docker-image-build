@@ -12,3 +12,7 @@
  ![image](https://user-images.githubusercontent.com/104436260/199646236-5fef0820-8222-465f-96c3-63641b4675c8.png)
  
  해당 경로 파일에 requirements.txt 파일 생성 확인
+ 
+ # ipynb->py 파일 변환
+ 
+ 
