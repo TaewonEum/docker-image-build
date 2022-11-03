@@ -21,4 +21,6 @@
  
  # VS Code 실행
  
+![image](https://user-images.githubusercontent.com/104436260/199646963-38f39ced-3cb6-4b9f-a950-8073083fe236.png)
+ 
  
