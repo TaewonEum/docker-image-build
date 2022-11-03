@@ -49,3 +49,7 @@
 ![image](https://user-images.githubusercontent.com/104436260/199652391-c3dbb9f8-dc52-45b5-a1e6-ee1c18a138c8.png)
 
 터미널에 docker images 입력 후 이미지 생성 확인
+
+Docker hub에 Image Push
+
+
